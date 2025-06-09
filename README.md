@@ -50,7 +50,7 @@ Full video with DroneAgent "thinking" process.
 
 Create a `.env` file in the root directory from `.env.example` file 
 and add all required environment variables:
-- `GEMINI_API_KEY` from [AI Studio](https://ai.google.dev/gemini-api/docs/api-key)
+- `GOOGLE_API_KEY` from [AI Studio](https://ai.google.dev/gemini-api/docs/api-key)
 - `LANGFUSE_SECRET_KEY`, `LANGFUSE_PUBLIC_KEY`, `LANGFUSE_HOST` from [LangFuse](https://langfuse.com/docs/get-started)
 
 ## How to Run
